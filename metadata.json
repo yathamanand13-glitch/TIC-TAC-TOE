@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Tactics",
+  "description": "A cinematic tactical grid strategy game with single-player AI and competitive local play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
